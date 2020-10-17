@@ -1,4 +1,4 @@
-package lieux;
+package lieux2;
 
 public class CompChgt implements Comparateur {
     public int compare(Trajet t1, Trajet t2) {

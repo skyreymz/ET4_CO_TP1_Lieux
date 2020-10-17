@@ -1,5 +1,4 @@
 package lieux2;
-import lieux.*;
 import java.util.Collection;
 import java.util.ArrayList;
 

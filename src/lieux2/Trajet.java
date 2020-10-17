@@ -1,4 +1,4 @@
-package lieux;
+package lieux2;
 import java.util.Collection;
 import java.util.ArrayList;
 import java.util.Arrays;
